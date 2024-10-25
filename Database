@@ -1,0 +1,11 @@
+$sql = "DROP TABLE IF EXISTS group-8;CREATE TABLE group-8 (\n"
+
+    . "  Joseph varchar(255) NOT NULL,\n"
+
+    . "  Alfred varchar(255) NOT NULL,\n"
+
+    . "  Thaniell varchar(255) NOT NULL,\n"
+
+    . "  Luis varchar(255) NOT NULL\n"
+
+    . ") ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;";
